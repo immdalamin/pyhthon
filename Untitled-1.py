@@ -2,7 +2,7 @@
 first_name = input("First name: ")
 last_name = input("Last name: ")
 birth = input("Year of birth: ")
-age = 2024 - int(birth)
+age = 2025 - int(birth)
 ab = f"""
 Hi {first_name}, 
 
